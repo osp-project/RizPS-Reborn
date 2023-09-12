@@ -1,4 +1,7 @@
 # RizPS-Reborn (RZPR)
+# 废弃警告
+### 这是一个已被废弃的项目，除非你要考古不然请不要使用它，这个项目中充斥着各种杂乱的代码导致我们不得不进行重写，新的项目叫[RizServer](https://github.com/osp-project/RizServer)，它将带着RizPS-Reborn的使命继续前行
+
 ## 项目介绍
 由Grasscutter原班人马献上，RizPS-Reborn（简称为RZPR）是针对 **某款简约风全屏判定音乐游戏** 的服务端重实现，为简洁而生，一个文件夹，拷贝即走，兼容多种系统，无需任何额外依赖，无需安装数据库，支持多用户，使用Rust编写
 
